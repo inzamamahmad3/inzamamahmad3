@@ -5,19 +5,19 @@
 
 <p align="left"> <a href="https://twitter.com/iinzamamahmad" target="blank"><img src="https://img.shields.io/twitter/follow/iinzamamahmad?logo=twitter&style=for-the-badge" alt="iinzamamahmad" /></a> </p>
 
-- 🔭 I’m currently working on **Machine Learning**
+- 🔭 I’m currently working on **REACT**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **BLOCKCHAIN**
 
-- 👯 I’m looking to collaborate on **Machine Learning and data science**
+- 👯 I’m looking to collaborate on **REACT AND BLOCKCHAIN**
 
-- 🤝 I’m looking for help with **Data Science**
+- 🤝 I’m looking for help with **BLOCKCHAIN**
 
-- 💬 Ask me about **flutter , Machine Learning**
+- 💬 Ask me about **MERN STACK**
 
 - 📫 How to reach me **enzee274@gmail.com**
 
-- ⚡ Fun fact **I love to explore new skills.**
+- ⚡ Fun fact **I LOVE MOUNTAINS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
