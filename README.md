@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inzamamahmad3&label=Profile%20views&color=0e75b6&style=flat" alt="inzamamahmad3" /> </p>
 
-<p align="left"> <a href="https://twitter.com/iinzamamahmad" target="blank"><img src="https://img.shields.io/twitter/follow/iinzamamahmad?logo=twitter&style=for-the-badge" alt="iinzamamahmad" /></a> </p>
+<p align="left"> <a href="https://twitter.com/hayeinzi" target="blank"><img src="https://img.shields.io/twitter/follow/iinzamamahmad?logo=twitter&style=for-the-badge" alt="iinzamamahmad" /></a> </p>
 
-- 🔭 I’m currently working on **REACT**
+- 🔭 I’m currently working on **Next JS**
 
 - 🌱 I’m currently learning **BLOCKCHAIN**
 
